@@ -13,6 +13,11 @@ Video Presentation: https://youtu.be/yp6CxBRvJBY
 - [Proteus file](https://github.com/swapnil-saha/Microcontroller-Based-Digital-Over-Voltage-Protection-System-for-Industrial-Loads/tree/main/Proteus%20file) contains 2 protus file. One is with Ardunio Uno as microcontroller and onther one is with intel 8086 as microcontroller.
 - [EEE416 J2021_Project_Presentation](https://github.com/swapnil-saha/Microcontroller-Based-Digital-Over-Voltage-Protection-System-for-Industrial-Loads/blob/main/EEE416%20J2021_Project_Presentation.pptx) contains the presentation slide of the project.
 
+# Team Members
+-Azad Rahman
+-Abir Kallayan Abedin
+-Swapnil Saha
+-Muhammad Sameen Uddin Mashuk
 
 
 
